@@ -1,9 +1,9 @@
 import requests
 
 # ServiceNow API Configuration
-SERVICENOW_INSTANCE = "dev220312.service-now.com"
-SERVICENOW_USERNAME = "admin"
-SERVICENOW_PASSWORD = "Clab=9!j4LSA"
+SERVICENOW_INSTANCE = ""
+SERVICENOW_USERNAME = ""
+SERVICENOW_PASSWORD = ""
 
 # Mapping of skills to departments
 skills_to_department = {
