@@ -2,9 +2,9 @@ import requests
 import json
 
 # ServiceNow instance details
-INSTANCE = 'https://dev220312.service-now.com'  # Replace with your instance URL
-USER = 'admin'  # Replace with your ServiceNow username
-PASSWORD = 'Clab=9!j4LSA'  # Replace with your ServiceNow password
+INSTANCE = ''  # Replace with your instance URL
+USER = ''  # Replace with your ServiceNow username
+PASSWORD = ''  # Replace with your ServiceNow password
 
 # Define the incident data
 sdescription = input("Enter Short Description")
