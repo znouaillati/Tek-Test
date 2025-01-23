@@ -1,9 +1,9 @@
 import requests
 
 # ServiceNow credentials and API URL
-SERVICENOW_URL = "dev220312.service-now.com"
-SERVICENOW_USERNAME = "admin"
-SERVICENOW_PASSWORD = "Clab=9!j4LSA"
+SERVICENOW_URL = ""
+SERVICENOW_USERNAME = ""
+SERVICENOW_PASSWORD = ""
 
 # BigPanda credentials and API URL
 #BIGPANDA_API_URL = "https://api.bigpanda.io/data/v2/alerts"
